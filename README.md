@@ -6,7 +6,7 @@ Passionate about coding and curious about the world of cybersecurity. I leverage
 ---
 
 ### 🛠 What I'm working on
-- 💡 **Project Epsylon:** A social media concept inspired by Instagram. It's my main project to learn how to structure code and build something from scratch.
+- 📚 **Learning & Improving:** Learning & Improving: Continuously developing my skills through university coursework and personal exploration.
 - 🛡️ **Cybersecurity:** A field I'm deeply interested in. I've previously explored basic CTFs to get a glimpse of the mindset and fundamentals of ethical hacking.
 - 📚 **UIR Grind:** Learning **C**, **Python**, and Computer Architecture.
 
